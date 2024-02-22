@@ -8,6 +8,8 @@ This is the Scratch project after converting it into HTML and hosted using Githu
 
 I used [**TurboWarp**][2] to convert the sb3 file to a zip file for the website and hosted using Github pages
 
+Get the scratch `sb3` files [**here**][4]
+
 The game can be accessed [**here**][3]
 
 Date: 18/02/2024
@@ -15,3 +17,4 @@ Date: 18/02/2024
 [1]: https://cs50.harvard.edu/x/2024/
 [2]: https://packager.turbowarp.org/
 [3]: https://heshinth.github.io/pongo/
+[4]: https://github.com/heshinth/First-repo
